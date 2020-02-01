@@ -1,0 +1,2 @@
+# EMPLOYEE_ATTRITION_USING_MACHINE-LEARNING
+Employee Attrition refres to when a company employee choose to leave when company to work for other company.  Employee attrition is a very common process across organizations. Vraious employee leave one company for other company just  becuase of some benifits. The benefits depend on employee to employee like some may be better compansation, distance from  home, better growth Opportunity, better skillset training, betterrole, environmant factors, bad relationship with managers  etc.
